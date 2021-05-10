@@ -1,10 +1,19 @@
 # task-1-caesar-cipher-cli
 
-1. git clone ```git@github.com:MakDe/task-1-caesar-cipher-cli.git```
-2. npm install
-3. node . -a encode -s 7 -i "./input.txt" -o "./output.txt"
+<ol>
+    <li>git clone ```git@github.com:MakDe/task-1-caesar-cipher-cli.git```</li>
+    <li>npm install</li>
+    <li>node . -a encode -s 7 -i "./input.txt" -o "./output.txt"</li>
+</ol>
 
--s, --shift: a shift
--i, --input: an input file
--o, --output: an output file
--a, --action: an action encode/decode
+<ul>
+    <li>-s, --shift: a shift </li>
+    <li>-i, --input: an input file </li>
+    <li>-o, --output: an output file </li>
+    <li>-a, --action: an action encode/decode</li>
+</ul>
+
+
+
+
+
