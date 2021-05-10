@@ -1,0 +1,26 @@
+{
+  "name": "task-1-caesar-cipher-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakDe/task-1-caesar-cipher-cli.git"
+  },
+  "author": "MakDe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MakDe/task-1-caesar-cipher-cli/issues"
+  },
+  "homepage": "https://github.com/MakDe/task-1-caesar-cipher-cli#readme",
+  "dependencies": {
+    "commander": "^7.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
